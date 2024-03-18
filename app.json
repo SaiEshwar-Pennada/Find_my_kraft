@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "find_my_kraft",
+    "slug": "find_my_kraft",
+    "icon": "./assets/icons/logo1.png"
+  }
+}
